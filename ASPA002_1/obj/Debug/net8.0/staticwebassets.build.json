@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "PnYhhpS2JgqTjTpFusyYDaomr7wRuY2cbTLklNOXQMs=",
+  "Source": "ASPA002_1",
+  "BasePath": "_content/ASPA002_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPA002_1\\wwwroot",
+      "Source": "ASPA002_1",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\",
+      "BasePath": "_content/ASPA002_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\Neyman.html",
+      "SourceId": "ASPA002_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\",
+      "BasePath": "_content/ASPA002_1",
+      "RelativePath": "Neyman#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "42v5ua05xm",
+      "Integrity": "fLL/F0/oRGwmuBfGJ8/FVRxF4Knd8vkEqoR6lK3xDko=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Neyman.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\Neyman.jpg",
+      "SourceId": "ASPA002_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\",
+      "BasePath": "_content/ASPA002_1",
+      "RelativePath": "Neyman#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "brf8u1uxc5",
+      "Integrity": "OVxU8mIziHKgV0a4FmqKkKu3GbQ1djQ+kcMkRI7lZ/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Neyman.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\script.js",
+      "SourceId": "ASPA002_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\",
+      "BasePath": "_content/ASPA002_1",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9hej2dqos4",
+      "Integrity": "8/n6+RGFgEv9Q9iiayjhcnK/G0riuD7Li4n5jJiOv/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\style.css",
+      "SourceId": "ASPA002_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\",
+      "BasePath": "_content/ASPA002_1",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jfc4tk4vol",
+      "Integrity": "7ySxUXzpkdIWYejY4kmaqfJS67q74EcgWN7HJwOSk20=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Neyman.42v5ua05xm.html",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\Neyman.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLL/F0/oRGwmuBfGJ8/FVRxF4Knd8vkEqoR6lK3xDko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42v5ua05xm"
+        },
+        {
+          "Name": "label",
+          "Value": "Neyman.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLL/F0/oRGwmuBfGJ8/FVRxF4Knd8vkEqoR6lK3xDko="
+        }
+      ]
+    },
+    {
+      "Route": "Neyman.brf8u1uxc5.jpg",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\Neyman.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OVxU8mIziHKgV0a4FmqKkKu3GbQ1djQ+kcMkRI7lZ/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "brf8u1uxc5"
+        },
+        {
+          "Name": "label",
+          "Value": "Neyman.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OVxU8mIziHKgV0a4FmqKkKu3GbQ1djQ+kcMkRI7lZ/A="
+        }
+      ]
+    },
+    {
+      "Route": "Neyman.html",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\Neyman.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLL/F0/oRGwmuBfGJ8/FVRxF4Knd8vkEqoR6lK3xDko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:45:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLL/F0/oRGwmuBfGJ8/FVRxF4Knd8vkEqoR6lK3xDko="
+        }
+      ]
+    },
+    {
+      "Route": "Neyman.jpg",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\Neyman.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OVxU8mIziHKgV0a4FmqKkKu3GbQ1djQ+kcMkRI7lZ/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OVxU8mIziHKgV0a4FmqKkKu3GbQ1djQ+kcMkRI7lZ/A="
+        }
+      ]
+    },
+    {
+      "Route": "script.9hej2dqos4.js",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8/n6+RGFgEv9Q9iiayjhcnK/G0riuD7Li4n5jJiOv/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:22:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9hej2dqos4"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8/n6+RGFgEv9Q9iiayjhcnK/G0riuD7Li4n5jJiOv/g="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8/n6+RGFgEv9Q9iiayjhcnK/G0riuD7Li4n5jJiOv/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:22:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8/n6+RGFgEv9Q9iiayjhcnK/G0riuD7Li4n5jJiOv/g="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ySxUXzpkdIWYejY4kmaqfJS67q74EcgWN7HJwOSk20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ySxUXzpkdIWYejY4kmaqfJS67q74EcgWN7HJwOSk20="
+        }
+      ]
+    },
+    {
+      "Route": "style.jfc4tk4vol.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ySxUXzpkdIWYejY4kmaqfJS67q74EcgWN7HJwOSk20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jfc4tk4vol"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ySxUXzpkdIWYejY4kmaqfJS67q74EcgWN7HJwOSk20="
+        }
+      ]
+    }
+  ]
+}

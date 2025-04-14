@@ -1,0 +1,3 @@
+wwwroot\Neyman.html
+wwwroot\Neyman.jpg
+wwwroot\script.js

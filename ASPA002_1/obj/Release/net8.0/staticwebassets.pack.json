@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\Neyman.html",
+      "PackagePath": "staticwebassets\\Neyman.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\Neyman.jpg",
+      "PackagePath": "staticwebassets\\Neyman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ASPA\\ASPA002_1\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ASPA002_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ASPA002_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ASPA002_1.props",
+      "PackagePath": "build\\ASPA002_1.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPA002_1.props",
+      "PackagePath": "buildMultiTargeting\\ASPA002_1.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASPA002_1.props",
+      "PackagePath": "buildTransitive\\ASPA002_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

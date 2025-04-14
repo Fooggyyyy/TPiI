@@ -1,0 +1,4 @@
+wwwroot\Neyman.html
+wwwroot\Neyman.jpg
+wwwroot\script.js
+wwwroot\style.css
