@@ -1,11 +1,5 @@
 [
   {
-    "id": 4,
-    "Firstname": "Donald",
-    "Surname": "Knuth",
-    "PhotoPath": "/Photo/Knuth.jpg"
-  },
-  {
     "id": 5,
     "Firstname": "Linus",
     "Surname": "Torvalds",
@@ -18,46 +12,10 @@
     "PhotoPath": "/Photo/Neumann.jpg"
   },
   {
-    "id": 0,
-    "Firstname": "TestUpd1",
-    "Surname": "TestUpd1",
-    "PhotoPath": "Photo/TestUpd1.jpg"
-  },
-  {
-    "id": 0,
-    "Firstname": "TestUpd2",
-    "Surname": "TestUpd2",
-    "PhotoPath": "Photo/TestUpd2.jpg"
-  },
-  {
-    "id": 0,
-    "Firstname": "Updated1",
-    "Surname": "Updated1",
-    "PhotoPath": "Photo/Updated1.jpg"
-  },
-  {
-    "id": 0,
-    "Firstname": "Updated2",
-    "Surname": "Updated2",
-    "PhotoPath": "Photo/Updated2.jpg"
-  },
-  {
     "id": 52,
     "Firstname": "Prokhor",
     "Surname": "Huletski",
     "PhotoPath": "/Photo/Huletski.jpg"
-  },
-  {
-    "id": 0,
-    "Firstname": "Charlse",
-    "Surname": "Babbge",
-    "PhotoPath": "/Photo/Lovelace.jpg"
-  },
-  {
-    "id": 0,
-    "Firstname": "FORUPDATE",
-    "Surname": "FORUPDATE",
-    "PhotoPath": "/Photo/FORUPDATE.jpg"
   },
   {
     "id": 53,
@@ -162,12 +120,6 @@
     "PhotoPath": "/Photo/Lovelace.jpg"
   },
   {
-    "id": 79,
-    "Firstname": "Charlse",
-    "Surname": "Babbage",
-    "PhotoPath": "Linus.jpg"
-  },
-  {
     "id": 80,
     "Firstname": "Charlse",
     "Surname": "Babbage",
@@ -181,12 +133,6 @@
   },
   {
     "id": 82,
-    "Firstname": "Charlse",
-    "Surname": "Babbage",
-    "PhotoPath": "Linus.jpg"
-  },
-  {
-    "id": 0,
     "Firstname": "Charlse",
     "Surname": "Babbage",
     "PhotoPath": "Linus.jpg"
@@ -208,5 +154,59 @@
     "Firstname": "Charlse",
     "Surname": "Babbage",
     "PhotoPath": "Linus.jpg"
+  },
+  {
+    "id": 1,
+    "Firstname": "Noam",
+    "Surname": "Chomsky",
+    "PhotoPath": "/Photo/Chomsky.jpg"
+  },
+  {
+    "id": 0,
+    "Firstname": "Noam",
+    "Surname": "Chomsky",
+    "PhotoPath": "/Photo/Chomsky.jpg"
+  },
+  {
+    "id": 0,
+    "Firstname": "Noam",
+    "Surname": "Chomsky",
+    "PhotoPath": "/Photo/Chomsky.jpg"
+  },
+  {
+    "id": 83,
+    "Firstname": "ForValidate",
+    "Surname": "xx",
+    "PhotoPath": "Chomsky.jpg"
+  },
+  {
+    "id": 84,
+    "Firstname": "ForValidate",
+    "Surname": "Knuth",
+    "PhotoPath": "Chomsky.jpg"
+  },
+  {
+    "id": 85,
+    "Firstname": "ForValidate",
+    "Surname": "Knuth1",
+    "PhotoPath": "Chomsky1.jpg"
+  },
+  {
+    "id": 86,
+    "Firstname": "ForValidate",
+    "Surname": "Knuth12",
+    "PhotoPath": "Chomsky1.jpg"
+  },
+  {
+    "id": 87,
+    "Firstname": "ForValidate",
+    "Surname": "Knuth124",
+    "PhotoPath": "Chomsky1.jpg"
+  },
+  {
+    "id": 1005,
+    "Firstname": "ForValidate",
+    "Surname": "Knuth1245",
+    "PhotoPath": "Chomsky1.jpg"
   }
 ]

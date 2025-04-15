@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ppj30SNeLRI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ASPA\\Test_ASPA005_3\\Test_ASPA005_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
